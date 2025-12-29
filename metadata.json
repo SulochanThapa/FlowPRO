@@ -1,0 +1,8 @@
+{
+  "name": "FlowMind Business Orchestrator",
+  "description": "A high-performance business process orchestration builder featuring a drag-and-drop canvas, AI-assisted flow generation with Gemini, and complex multi-step approval logic management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
